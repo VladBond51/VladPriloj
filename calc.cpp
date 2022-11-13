@@ -7,6 +7,7 @@ int main() {
 	int choice = 0;
 	double a, b;
 
+
 	cout << "Выберите операцию:" << endl;
 	cout << "1 - сложение" << endl;
 	cout << "2 - вычитание" << endl;
@@ -14,6 +15,7 @@ int main() {
 	cout << "4 - деление" << endl;
 	cin >> choice;
 	cout << endl;
+
 
 	cout << "Введите числа a b:" << endl;
 	cin >> a >> b;
