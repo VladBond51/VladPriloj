@@ -17,7 +17,7 @@ int main() {
 	cout << endl;
 
 
-	cout << "Введите числа a b:" << endl;
+	cout << "Введите числа a и b:" << endl;
 	cin >> a >> b;
 	cout << endl;
 
