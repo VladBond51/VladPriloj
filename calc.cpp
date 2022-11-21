@@ -21,7 +21,7 @@ int main() {
 	cin >> a >> b;
 	cout << endl;
 
-	switch (choice) {
+	switch  (choice) {
 
 	case 1:
 		cout << "a + b = " << summation(a, b) << endl;
